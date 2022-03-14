@@ -1,0 +1,25 @@
+ linters:
+  enable:
+    - revive
+    - deadcode
+    - errcheck
+    - gosimple
+    - govet
+    - ineffassign
+    - staticcheck
+    - structcheck
+    - typecheck
+    - unused
+    - varcheck
+    - gocritic
+    - lll
+    - prealloc
+    - goconst
+    - misspell
+    - nakedret
+    - unparam
+    - tagliatelle
+    - bodyclose
+    - goerr113
+    - wastedassign
+    - godot
